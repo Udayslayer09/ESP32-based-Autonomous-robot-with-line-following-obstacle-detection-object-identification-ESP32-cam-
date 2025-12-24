@@ -1,2 +1,2 @@
-# ESP32-based-Autonomous-robot-with-line-following-obstacle-detection-object-identification-ESP32-cam-
+# ESP32-based-Autonomous-robot-with-line-following-and-obstacle-detection-and-object-identification-via-ESP32-cam-
 Basically i made an robot which follows a line( through Infrared Sensor) and detects obstacle(through Ultrasonic Sensor)and stops when obstacle detected and resume again when there is no obstacle in path,simultaneously it detects '1' or '2' through ESP32cam and sends signal to ESP32 Devmodule to bring it to a stop, there is an led indication also when '1' or '2' is dectected by Cam.To resume the robot there is a push button. 
